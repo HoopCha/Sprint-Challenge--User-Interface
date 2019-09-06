@@ -144,7 +144,7 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
-
+/* ----------------------------------------------*/
 header  {
 	display: flex;
 	justify-content: space-between;
@@ -164,33 +164,36 @@ header  {
     align-items: center;
     padding: 15px;
   }
-  .middle-content .boxes .one {
-    background: teal;
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid black; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px;
+    margin-bottom: 16px;
   }
-  .middle-content .boxes .two {
-    background: gold;
+  
+  input[type=submit] {
+    border-radius: 7px;
+    width: 120px;
+    height: 35px;
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    text-align: center;    
+    border: 2px solid black;
+    cursor: pointer;
   }
-  .middle-content .boxes .three {
-    background: cadetblue;
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: black;
+    color: white;
   }
-  .middle-content .boxes .four {
-    background: coral;
-  }
-  .middle-content .boxes .five {
-    background: crimson;
-  }
-  .middle-content .boxes .six {
-    background: forestgreen;
-  }
-  .middle-content .boxes .seven {
-    background: darkorchid;
-  }
-  .middle-content .boxes .eight {
-    background: hotpink;
-  }
-  .middle-content .boxes .nine {
-    background: indigo;
-  }
-  .middle-content .boxes .ten {
-    background: dodgerblue;
+  
+  .container2 {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
   }
