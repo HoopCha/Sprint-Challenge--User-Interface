@@ -144,3 +144,53 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header  {
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+    margin: 25px 0px; 
+  }
+
+  header nav a {
+    margin-right: 65px;
+	font-size: 14px;
+	color: black;
+	text-decoration: none;
+  }
+  .runner {
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    padding: 15px;
+  }
+  .middle-content .boxes .one {
+    background: teal;
+  }
+  .middle-content .boxes .two {
+    background: gold;
+  }
+  .middle-content .boxes .three {
+    background: cadetblue;
+  }
+  .middle-content .boxes .four {
+    background: coral;
+  }
+  .middle-content .boxes .five {
+    background: crimson;
+  }
+  .middle-content .boxes .six {
+    background: forestgreen;
+  }
+  .middle-content .boxes .seven {
+    background: darkorchid;
+  }
+  .middle-content .boxes .eight {
+    background: hotpink;
+  }
+  .middle-content .boxes .nine {
+    background: indigo;
+  }
+  .middle-content .boxes .ten {
+    background: dodgerblue;
+  }
