@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-    A. Semantic HTML is a way to mark your html so that is easy to read and make sense. For example if you have a tilte you might mark it with a <H1> Tag, or if you had paragraph text underneath it, a <p> this helps the code be easyer to read, style, and understand, as well as browsers make the website more accesable. 
+    A. Semantic HTML is a way to mark your html so that is easy to read and make sense. For example if you have a tilte you might mark it with a H1 Tag, or if you had paragraph text underneath it, a p this helps the code be easyer to read, style, and understand, as well as browsers make the website more accesable. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
